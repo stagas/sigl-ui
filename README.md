@@ -1,5 +1,5 @@
 <h1>
-sigl-ui <a href="https://npmjs.org/package/sigl-ui"><img src="https://img.shields.io/badge/npm-v0.0.2-F00.svg?colorA=000"/></a> <a href="src"><img src="https://img.shields.io/badge/loc-178-FFF.svg?colorA=000"/></a> <a href="https://cdn.jsdelivr.net/npm/sigl-ui@0.0.2/dist/sigl-ui.min.js"><img src="https://img.shields.io/badge/brotli-16.5K-333.svg?colorA=000"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-F0B.svg?colorA=000"/></a>
+sigl-ui <a href="https://npmjs.org/package/sigl-ui"><img src="https://img.shields.io/badge/npm-v1.0.0-F00.svg?colorA=000"/></a> <a href="src"><img src="https://img.shields.io/badge/loc-178-FFF.svg?colorA=000"/></a> <a href="https://cdn.jsdelivr.net/npm/sigl-ui@1.0.0/dist/sigl-ui.min.js"><img src="https://img.shields.io/badge/brotli-16.3K-333.svg?colorA=000"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-F0B.svg?colorA=000"/></a>
 </h1>
 
 <p></p>

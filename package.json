@@ -3,7 +3,7 @@
   "author": "stagas",
   "short": "stagas/sigl-ui",
   "description": "UI elements and components for sigl",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -77,6 +77,6 @@
     "vite-open": "^3.0.1"
   },
   "dependencies": {
-    "sigl": "^0.0.9"
+    "sigl": "^1.0.0"
   }
 }
