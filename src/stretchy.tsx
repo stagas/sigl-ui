@@ -8,7 +8,7 @@ export const Stretchy = (
     height: number
     children?: JSX.Element
   },
-) => (
+): JSX.Element => (
   <svg
     key={key}
     part={part}
